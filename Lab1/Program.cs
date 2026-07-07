@@ -5,7 +5,6 @@ class Program
     /*
      * Name: [Your Name]
      * Title: IT-1050 - Lab 1
-     * How To: GitHub, CodeSpaces (IDE), and Submitting Your Labs
      */
 
     static void Main(string[] args)
