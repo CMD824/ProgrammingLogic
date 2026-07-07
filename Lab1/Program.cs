@@ -3,19 +3,19 @@ using System;
 class Program
 {
     /*
-     * Name: [Your Name]
+     * Name: [Ishmael Bilal]
      * Title: IT-1050 - Lab 1
      */
 
     static void Main(string[] args)
     {
         // Step 2: Basic Output
-        Console.WriteLine("My Name");
+        Console.WriteLine("Ishmael Bilal");
         Console.WriteLine("IT-1050 - Lab 1");
 
         // Step 3: Declare and Use Variables
-        int favoriteNumber = 42;
-        string favoriteLanguage = "C#";
+        int favoriteNumber = 1;
+        string favoriteLanguage = "Bash";
         double programsWritten = 5.0;
         bool hasProgrammingExperience = true;
 
@@ -25,7 +25,7 @@ class Program
         Console.WriteLine("Do I have programming experience? " + hasProgrammingExperience);
 
         // Step 4: Use Constants
-        const string schoolName = "Your School Name";
+        const string schoolName = "Cuyahoga-Community-College";
         Console.WriteLine("My school is " + schoolName);
 
         // Step 5: Type Casting
